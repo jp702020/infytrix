@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# Sales Dashboard Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Sales Dashboard Application built with a Node.js backend and a React frontend. The application fetches sales data from a MongoDB database and displays it using various charts and a data grid.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Installation](#installation)
+- [Backend Setup](#backend-setup)
+- [Frontend Setup](#frontend-setup)
+- [Running the Application](#running-the-application)
+- [Features](#features)
+- [Dependencies](#Dependencies)
 
-### `npm start`
+# Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repository:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   ```bash
+   git clone "uri"
+2. Add some data of current date in salesDataWithDate.json file and upload it to MongoDB server
+3. Set up your environment variables by creating a `.env` file in the root directory of the project. Add the following:
+    ```bash
+    MONGODB_URI=your_mongodb_uri
+    PORT=5000
+    //Replace `your_mongodb_uri` with the connection string for your MongoDB database.
 
-### `npm test`
+# Backend Setup
+1. Navigate to the server directory:
+    ```bash
+    cd server
+2. Install the required dependencies:
+    ```bash
+    npm init -y
+    npm install express body-parser
+3. Start the server:
+    ```bash
+    node server.js
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Frontend Setup
+1. Navigate to the client directory:
+    ```bash
+    cd client
+    npx create-react-app .
+2. Install the required dependencies:
+    ```bash
+    npm install chart.js react-chartjs-2 ag-grid-react ag-grid-community axios react-datepicker
+3. Start the frontend:
+    ```bash
+    npm start
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Running the Application
+1. Make sure both the backend server and the frontend client are running.
+2. Open your browser and go to http://localhost:3000 to view the sales dashboard.
+3.And for comparison go to http://localhost:3000/comparison
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Features
+- Dashboard 1: Displays today's sales data by product and category using bar charts and a data grid.
+- Dashboard 2: Allows comparison of sales data between two dates, with product-level and category-level comparisons.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Dependencies
+## Backend
+- `express`: Web framework for Node.js.
+- `mongodb`: MongoDB driver for Node.js.
+- `dotenv`: Loads environment variables from a .env file.
+- `cors`: Middleware for handling Cross-Origin Resource Sharing.
+- `body-parser`: Middleware for parsing incoming request bodies.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Frontend
+- `react`: JavaScript library for building user interfaces.
+- `react-chartjs-2` and `chart.js`: Libraries for rendering charts.
+- `ag-grid-react` and `ag-grid-community`: Libraries for displaying data in a grid.
+- `axios`: HTTP client for making API requests.
+- `react-datepicker`: Component for selecting dates.

@@ -1,0 +1,716 @@
+[
+    {
+      "productName": "Product A",
+      "category": "Category 1",
+      "quantitySold": 5,
+      "salesAmount": 150,
+      "date": "2024-09-02"
+    },
+    {
+      "productName": "Product B",
+      "category": "Category 2",
+      "quantitySold": 10,
+      "salesAmount": 300,
+      "date": "2024-09-02"
+    },
+    {
+      "productName": "Product C",
+      "category": "Category 3",
+      "quantitySold": 8,
+      "salesAmount": 240,
+      "date": "2024-09-02"
+    },
+    {
+      "productName": "Product D",
+      "category": "Category 1",
+      "quantitySold": 7,
+      "salesAmount": 210,
+      "date": "2024-09-02"
+    },
+    {
+      "productName": "Product E",
+      "category": "Category 2",
+      "quantitySold": 15,
+      "salesAmount": 450,
+      "date": "2024-09-02"
+    },
+    {
+      "productName": "Product A",
+      "category": "Category 1",
+      "quantitySold": 12,
+      "salesAmount": 360,
+      "date": "2024-08-31"
+    },
+    {
+      "productName": "Product B",
+      "category": "Category 2",
+      "quantitySold": 9,
+      "salesAmount": 270,
+      "date": "2024-08-30"
+    },
+    {
+      "productName": "Product C",
+      "category": "Category 3",
+      "quantitySold": 6,
+      "salesAmount": 180,
+      "date": "2024-08-30"
+    },
+    {
+      "productName": "Product D",
+      "category": "Category 1",
+      "quantitySold": 14,
+      "salesAmount": 420,
+      "date": "2024-08-29"
+    },
+    {
+      "productName": "Product E",
+      "category": "Category 2",
+      "quantitySold": 10,
+      "salesAmount": 300,
+      "date": "2024-08-28"
+    },
+    {
+      "productName": "Product A",
+      "category": "Category 1",
+      "quantitySold": 7,
+      "salesAmount": 210,
+      "date": "2024-08-27"
+    },
+    {
+      "productName": "Product B",
+      "category": "Category 3",
+      "quantitySold": 11,
+      "salesAmount": 330,
+      "date": "2024-08-26"
+    },
+    {
+      "productName": "Product C",
+      "category": "Category 2",
+      "quantitySold": 5,
+      "salesAmount": 150,
+      "date": "2024-08-25"
+    },
+    {
+      "productName": "Product D",
+      "category": "Category 1",
+      "quantitySold": 13,
+      "salesAmount": 390,
+      "date": "2024-08-24"
+    },
+    {
+      "productName": "Product E",
+      "category": "Category 3",
+      "quantitySold": 8,
+      "salesAmount": 240,
+      "date": "2024-08-23"
+    },
+    {
+      "productName": "Product A",
+      "category": "Category 2",
+      "quantitySold": 9,
+      "salesAmount": 270,
+      "date": "2024-08-22"
+    },
+    {
+      "productName": "Product B",
+      "category": "Category 1",
+      "quantitySold": 7,
+      "salesAmount": 210,
+      "date": "2024-08-21"
+    },
+    {
+      "productName": "Product C",
+      "category": "Category 3",
+      "quantitySold": 10,
+      "salesAmount": 300,
+      "date": "2024-08-20"
+    },
+    {
+      "productName": "Product D",
+      "category": "Category 2",
+      "quantitySold": 15,
+      "salesAmount": 450,
+      "date": "2024-08-19"
+    },
+    {
+      "productName": "Product E",
+      "category": "Category 1",
+      "quantitySold": 6,
+      "salesAmount": 180,
+      "date": "2024-08-18"
+    },
+    {
+      "productName": "Product A",
+      "category": "Category 3",
+      "quantitySold": 8,
+      "salesAmount": 240,
+      "date": "2024-08-17"
+    },
+    {
+      "productName": "Product B",
+      "category": "Category 2",
+      "quantitySold": 14,
+      "salesAmount": 420,
+      "date": "2024-08-16"
+    },
+    {
+      "productName": "Product C",
+      "category": "Category 1",
+      "quantitySold": 5,
+      "salesAmount": 150,
+      "date": "2024-08-15"
+    },
+    {
+      "productName": "Product D",
+      "category": "Category 3",
+      "quantitySold": 9,
+      "salesAmount": 270,
+      "date": "2024-08-14"
+    },
+    {
+      "productName": "Product E",
+      "category": "Category 2",
+      "quantitySold": 11,
+      "salesAmount": 330,
+      "date": "2024-08-13"
+    },
+    {
+      "productName": "Product A",
+      "category": "Category 1",
+      "quantitySold": 12,
+      "salesAmount": 360,
+      "date": "2024-08-12"
+    },
+    {
+      "productName": "Product B",
+      "category": "Category 3",
+      "quantitySold": 8,
+      "salesAmount": 240,
+      "date": "2024-08-11"
+    },
+    {
+      "productName": "Product C",
+      "category": "Category 2",
+      "quantitySold": 13,
+      "salesAmount": 390,
+      "date": "2024-08-10"
+    },
+    {
+      "productName": "Product D",
+      "category": "Category 1",
+      "quantitySold": 6,
+      "salesAmount": 180,
+      "date": "2024-08-09"
+    },
+    {
+      "productName": "Product E",
+      "category": "Category 3",
+      "quantitySold": 10,
+      "salesAmount": 300,
+      "date": "2024-08-08"
+    },
+    {
+      "productName": "Product A",
+      "category": "Category 2",
+      "quantitySold": 7,
+      "salesAmount": 210,
+      "date": "2024-08-07"
+    },
+    {
+      "productName": "Product B",
+      "category": "Category 1",
+      "quantitySold": 9,
+      "salesAmount": 270,
+      "date": "2024-08-06"
+    },
+    {
+      "productName": "Product C",
+      "category": "Category 3",
+      "quantitySold": 14,
+      "salesAmount": 420,
+      "date": "2024-08-05"
+    },
+    {
+      "productName": "Product D",
+      "category": "Category 2",
+      "quantitySold": 11,
+      "salesAmount": 330,
+      "date": "2024-08-04"
+    },
+    {
+      "productName": "Product E",
+      "category": "Category 1",
+      "quantitySold": 5,
+      "salesAmount": 150,
+      "date": "2024-08-03"
+    },
+    {
+      "productName": "Product A",
+      "category": "Category 3",
+      "quantitySold": 10,
+      "salesAmount": 300,
+      "date": "2024-08-02"
+    },
+    {
+      "productName": "Product B",
+      "category": "Category 2",
+      "quantitySold": 12,
+      "salesAmount": 360,
+      "date": "2024-08-01"
+    },
+    {
+      "productName": "Product C",
+      "category": "Category 1",
+      "quantitySold": 9,
+      "salesAmount": 270,
+      "date": "2024-07-31"
+    },
+    {
+      "productName": "Product D",
+      "category": "Category 3",
+      "quantitySold": 8,
+      "salesAmount": 240,
+      "date": "2024-07-30"
+    },
+    {
+      "productName": "Product E",
+      "category": "Category 2",
+      "quantitySold": 13,
+      "salesAmount": 390,
+      "date": "2024-07-29"
+    },
+    {
+          "productName": "Product D",
+          "category": "Category 1",
+          "quantitySold": 10,
+          "salesAmount": 300,
+          "date": "2024-05-31"
+        },
+        {
+          "productName": "Product E",
+          "category": "Category 2",
+          "quantitySold": 14,
+          "salesAmount": 420,
+          "date": "2024-05-30"
+        },
+        {
+          "productName": "Product A",
+          "category": "Category 3",
+          "quantitySold": 13,
+          "salesAmount": 390,
+          "date": "2024-05-29"
+        },
+        {
+          "productName": "Product B",
+          "category": "Category 1",
+          "quantitySold": 12,
+          "salesAmount": 360,
+          "date": "2024-05-28"
+        },
+        {
+          "productName": "Product C",
+          "category": "Category 2",
+          "quantitySold": 9,
+          "salesAmount": 270,
+          "date": "2024-05-27"
+        },
+        {
+          "productName": "Product D",
+          "category": "Category 3",
+          "quantitySold": 7,
+          "salesAmount": 210,
+          "date": "2024-05-26"
+        },
+        {
+          "productName": "Product E",
+          "category": "Category 1",
+          "quantitySold": 11,
+          "salesAmount": 330,
+          "date": "2024-05-25"
+        },
+        {
+          "productName": "Product A",
+          "category": "Category 2",
+          "quantitySold": 15,
+          "salesAmount": 450,
+          "date": "2024-05-24"
+        },
+        {
+          "productName": "Product B",
+          "category": "Category 3",
+          "quantitySold": 10,
+          "salesAmount": 300,
+          "date": "2024-05-23"
+        },
+        {
+          "productName": "Product C",
+          "category": "Category 1",
+          "quantitySold": 8,
+          "salesAmount": 240,
+          "date": "2024-05-22"
+        },
+        {
+          "productName": "Product D",
+          "category": "Category 2",
+          "quantitySold": 6,
+          "salesAmount": 180,
+          "date": "2024-05-21"
+        },
+        {
+          "productName": "Product E",
+          "category": "Category 3",
+          "quantitySold": 12,
+          "salesAmount": 360,
+          "date": "2024-05-20"
+        },
+        {
+          "productName": "Product A",
+          "category": "Category 1",
+          "quantitySold": 9,
+          "salesAmount": 270,
+          "date": "2024-05-19"
+        },
+        {
+          "productName": "Product B",
+          "category": "Category 2",
+          "quantitySold": 7,
+          "salesAmount": 210,
+          "date": "2024-05-18"
+        },
+        {
+          "productName": "Product C",
+          "category": "Category 3",
+          "quantitySold": 11,
+          "salesAmount": 330,
+          "date": "2024-05-17"
+        },
+        {
+          "productName": "Product D",
+          "category": "Category 1",
+          "quantitySold": 14,
+          "salesAmount": 420,
+          "date": "2024-05-16"
+        },
+        {
+          "productName": "Product E",
+          "category": "Category 2",
+          "quantitySold": 8,
+          "salesAmount": 240,
+          "date": "2024-05-15"
+        },
+        {
+          "productName": "Product A",
+          "category": "Category 3",
+          "quantitySold": 10,
+          "salesAmount": 300,
+          "date": "2024-05-14"
+        },
+        {
+          "productName": "Product B",
+          "category": "Category 1",
+          "quantitySold": 12,
+          "salesAmount": 360,
+          "date": "2024-05-13"
+        },
+        {
+          "productName": "Product C",
+          "category": "Category 2",
+          "quantitySold": 9,
+          "salesAmount": 270,
+          "date": "2024-05-12"
+        },
+        {
+          "productName": "Product D",
+          "category": "Category 3",
+          "quantitySold": 8,
+          "salesAmount": 240,
+          "date": "2024-05-11"
+        },
+        {
+          "productName": "Product E",
+          "category": "Category 1",
+          "quantitySold": 11,
+          "salesAmount": 330,
+          "date": "2024-05-10"
+        },
+        {
+          "productName": "Product A",
+          "category": "Category 2",
+          "quantitySold": 13,
+          "salesAmount": 390,
+          "date": "2024-05-09"
+        },
+        {
+          "productName": "Product B",
+          "category": "Category 3",
+          "quantitySold": 7,
+          "salesAmount": 210,
+          "date": "2024-05-08"
+        },
+        {
+          "productName": "Product C",
+          "category": "Category 1",
+          "quantitySold": 14,
+          "salesAmount": 420,
+          "date": "2024-05-07"
+        },
+        {
+          "productName": "Product D",
+          "category": "Category 2",
+          "quantitySold": 6,
+          "salesAmount": 180,
+          "date": "2024-05-06"
+        },
+        {
+          "productName": "Product E",
+          "category": "Category 3",
+          "quantitySold": 9,
+          "salesAmount": 270,
+          "date": "2024-05-05"
+        },
+        {
+          "productName": "Product A",
+          "category": "Category 1",
+          "quantitySold": 12,
+          "salesAmount": 360,
+          "date": "2024-05-04"
+        },
+        {
+          "productName": "Product B",
+          "category": "Category 2",
+          "quantitySold": 10,
+          "salesAmount": 300,
+          "date": "2024-05-03"
+        },
+        {
+          "productName": "Product C",
+          "category": "Category 3",
+          "quantitySold": 8,
+          "salesAmount": 240,
+          "date": "2024-05-02"
+        },
+        {
+          "productName": "Product D",
+          "category": "Category 1",
+          "quantitySold": 11,
+          "salesAmount": 330,
+          "date": "2024-05-01"
+        },{
+          "productName": "Product D",
+          "category": "Category 1",
+          "quantitySold": 10,
+          "salesAmount": 300,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product E",
+          "category": "Category 2",
+          "quantitySold": 14,
+          "salesAmount": 420,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product A",
+          "category": "Category 3",
+          "quantitySold": 13,
+          "salesAmount": 390,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product B",
+          "category": "Category 1",
+          "quantitySold": 12,
+          "salesAmount": 360,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product C",
+          "category": "Category 2",
+          "quantitySold": 9,
+          "salesAmount": 270,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product D",
+          "category": "Category 3",
+          "quantitySold": 7,
+          "salesAmount": 210,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product E",
+          "category": "Category 1",
+          "quantitySold": 11,
+          "salesAmount": 330,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product A",
+          "category": "Category 2",
+          "quantitySold": 15,
+          "salesAmount": 450,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product B",
+          "category": "Category 3",
+          "quantitySold": 10,
+          "salesAmount": 300,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product C",
+          "category": "Category 1",
+          "quantitySold": 8,
+          "salesAmount": 240,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product D",
+          "category": "Category 2",
+          "quantitySold": 6,
+          "salesAmount": 180,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product E",
+          "category": "Category 3",
+          "quantitySold": 12,
+          "salesAmount": 360,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product A",
+          "category": "Category 1",
+          "quantitySold": 9,
+          "salesAmount": 270,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product B",
+          "category": "Category 2",
+          "quantitySold": 7,
+          "salesAmount": 210,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product C",
+          "category": "Category 3",
+          "quantitySold": 11,
+          "salesAmount": 330,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product D",
+          "category": "Category 1",
+          "quantitySold": 14,
+          "salesAmount": 420,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product E",
+          "category": "Category 2",
+          "quantitySold": 8,
+          "salesAmount": 240,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product A",
+          "category": "Category 3",
+          "quantitySold": 10,
+          "salesAmount": 300,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product B",
+          "category": "Category 1",
+          "quantitySold": 12,
+          "salesAmount": 360,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product C",
+          "category": "Category 2",
+          "quantitySold": 9,
+          "salesAmount": 270,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product D",
+          "category": "Category 3",
+          "quantitySold": 8,
+          "salesAmount": 240,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product E",
+          "category": "Category 1",
+          "quantitySold": 11,
+          "salesAmount": 330,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product A",
+          "category": "Category 2",
+          "quantitySold": 13,
+          "salesAmount": 390,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product B",
+          "category": "Category 3",
+          "quantitySold": 7,
+          "salesAmount": 210,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product C",
+          "category": "Category 1",
+          "quantitySold": 14,
+          "salesAmount": 420,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product D",
+          "category": "Category 2",
+          "quantitySold": 6,
+          "salesAmount": 180,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product E",
+          "category": "Category 3",
+          "quantitySold": 9,
+          "salesAmount": 270,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product A",
+          "category": "Category 1",
+          "quantitySold": 12,
+          "salesAmount": 360,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product B",
+          "category": "Category 2",
+          "quantitySold": 10,
+          "salesAmount": 300,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product C",
+          "category": "Category 3",
+          "quantitySold": 8,
+          "salesAmount": 240,
+          "date": "2024-09-03"
+        },
+        {
+          "productName": "Product D",
+          "category": "Category 1",
+          "quantitySold": 11,
+          "salesAmount": 330,
+          "date": "2024-09-03"
+        }
+      ]
+      
