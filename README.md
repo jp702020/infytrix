@@ -25,18 +25,20 @@ This is a Sales Dashboard Application built with a Node.js backend and a React f
     //Replace `your_mongodb_uri` with the connection string for your MongoDB database.
 
 # Backend Setup
-1. Navigate to the server directory:
+1. Backend in backend branch of git
+2. Navigate to the server directory:
     ```bash
     cd server
-2. Install the required dependencies:
+3. Install the required dependencies:
     ```bash
     npm init -y
     npm install express body-parser
-3. Start the server:
+4. Start the server:
     ```bash
     node server.js
 
 # Frontend Setup
+1. frontend in frontend branch of git
 1. Navigate to the client directory:
     ```bash
     cd client
